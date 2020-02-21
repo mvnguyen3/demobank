@@ -10,7 +10,7 @@ public class BankApplication extends SpringBootServletInitializer{
 	public static void main(String[] args) {
 		SpringApplication.run(BankApplication.class, args);
 		
-		
+		// test text
 		//TODO
 		/*
 		 * When deleting a user, must check if customer is there.
